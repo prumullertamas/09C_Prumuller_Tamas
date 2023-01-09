@@ -20,6 +20,10 @@
 - git add . (összes állomány és mappa hozzáadása)
 ## 5. Állapotfelvétel (commit) készítése
 - git  commit -m "commit message"
-  ## 6. Git állapot és log lekérdezése
+## 6. Git állapot és log lekérdezése
 - git status
 - git log
+## 7. Lokális változások szinkronizálása a távoli repoba
+- git push
+## 8. Távoli repo másolása (klómozása) a lokális repoba
+- git clone "távoli repo URL címe"
