@@ -23,7 +23,7 @@
 ## 6. Git állapot és log lekérdezése
 - git status
 - git log
-## 7. Lokális változások szinkronizálása a távoli repoba
+## 7. Lokális változások feltöltése a távoli repoba
 - git push
 ## 8. Távoli repo másolása (klómozása) a lokális repoba
 - git clone "távoli repo URL címe"
@@ -38,3 +38,9 @@
 - git checkout másikágneve
 > Ág törlése
 - git branch -d törlendőágneve (aktuális ágat nem lehet)
+> Változások átvezetése (merge)
+- git checkout
+- git merge
+## 10. Távoli repo változásainakk letöltése a lokális gépre
+- git fetch origin
+- 
